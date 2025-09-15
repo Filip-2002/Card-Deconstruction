@@ -15,8 +15,7 @@ Built entirely with **HTML**, **CSS**, and **JavaScript**, this project blends c
  
 ## 🎥 Demo
 
-<video src="demo/demo.mp4" controls width="600"></video>
-
+![demo](demo/demo.gif)
 
 
 ## 🚀 How to Run
