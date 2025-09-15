@@ -26,7 +26,7 @@ Built entirely with **HTML**, **CSS**, and **JavaScript**, this project blends c
 
 2. Open the project folder.
 
-3. Launch index.html in your browser.
+3. Launch `index.html` in your browser.
 
 
 
