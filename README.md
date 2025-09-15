@@ -1,4 +1,4 @@
-# Digital Card Decay
+# Digital Card Decay by Filip Ilovsky
 
 An interactive front-end animation where bank cards pass through a digital portal and deconstruct into cascading streams of code.  
 The effect symbolises the **fragility of digital information**, representing the loss, corruption, and hacking of data as it dissolves into raw code.  
