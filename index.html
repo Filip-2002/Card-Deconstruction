@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Cards</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+  <div class="controls">
+    <button class="control-btn" onclick="toggleAnimation()">Play / Pause</button>
+    <button class="control-btn" onclick="changeDirection()">Direction</button>
+  </div>
+
+  <div class="container">
+    <canvas id="particleCanvas"></canvas>
+    <canvas id="scannerCanvas"></canvas>
+
+    <div class="scanner"></div> 
+
+    <div class="card-stream" id="cardStream">
+      <div class="card-line" id="cardLine"></div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>  
+  <script src="script.js"></script> 
+
+</body>
+</html>
